@@ -1,0 +1,1 @@
+- For the initialization steps, I've used AI to help me summarized and created rough objectives to move foward to

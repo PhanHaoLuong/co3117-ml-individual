@@ -2,7 +2,6 @@ from pathlib import Path
 
 import numpy as np
 
-
 # Path to the extracted UCI HAR Dataset
 DATA_DIR = (
     Path(__file__).resolve().parent.parent
@@ -10,7 +9,6 @@ DATA_DIR = (
     / "human+activity+recognition+using+smartphones"
     / "UCI HAR Dataset"
 )
-
 
 # Subjects selected for our validation set
 VALIDATION_SUBJECTS = np.array([2, 9, 14, 19])
